@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<Graph vertexcount='4'>
+    <Vertex name='A'>
+		<Edge to='B' weight='10'/>
+		<Edge to='C' weight='15'/>
+		<Edge to='D' weight='20'/>
+	</Vertex>
+	<Vertex name='B'>
+		<Edge to='A' weight='5'/>
+		<Edge to='C' weight='9'/>
+		<Edge to='D' weight='10'/>
+	</Vertex>
+	<Vertex name='C'>
+		<Edge to='A' weight='6'/>
+		<Edge to='B' weight='13'/>
+		<Edge to='D' weight='12'/>
+	</Vertex>
+	<Vertex name='D'>
+		<Edge to='A' weight='8'/>
+		<Edge to='B' weight='8'/>
+		<Edge to='C' weight='9'/>
+	</Vertex>
+</Graph>

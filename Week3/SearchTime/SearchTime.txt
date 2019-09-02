@@ -1,0 +1,241 @@
+Test for HashMap (10000 items)
+        Insert 10000 items in 0msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 3304msec
+Test for HashMap (20000 items)
+        Insert 20000 items in 10msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 3946msec
+Test for HashMap (30000 items)
+        Insert 30000 items in 10msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 4336msec
+Test for HashMap (40000 items)
+        Insert 40000 items in 10msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 5078msec
+Test for HashMap (50000 items)
+        Insert 50000 items in 20msec
+        Find 10000 items in 0msec
+        Remove 10000 items in 6880msec
+Test for HashMap (60000 items)
+        Insert 60000 items in 20msec
+        Find 10000 items in 0msec
+        Remove 10000 items in 7981msec
+Test for HashMap (70000 items)
+        Insert 70000 items in 20msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 9143msec
+Test for HashMap (80000 items)
+        Insert 80000 items in 30msec
+        Find 10000 items in 11msec
+        Remove 10000 items in 10865msec
+Test for HashMap (90000 items)
+        Insert 90000 items in 30msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 12248msec
+Test for HashMap (100000 items)
+        Insert 100000 items in 30msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 12598msec
+Test for ChainMap (10000 items)
+        Insert 10000 items in 20msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for ChainMap (20000 items)
+        Insert 20000 items in 40msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for ChainMap (30000 items)
+        Insert 30000 items in 50msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for ChainMap (40000 items)
+        Insert 40000 items in 80msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for ChainMap (50000 items)
+        Insert 50000 items in 101msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for ChainMap (60000 items)
+        Insert 60000 items in 110msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 40msec
+Test for ChainMap (70000 items)
+        Insert 70000 items in 140msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for ChainMap (80000 items)
+        Insert 80000 items in 151msec
+        Find 10000 items in 30msec
+        Remove 10000 items in 30msec
+Test for ChainMap (90000 items)
+        Insert 90000 items in 170msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 31msec
+Test for ChainMap (100000 items)
+        Insert 100000 items in 190msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 41msec
+Test for RadixTreeMap (10000 items)
+        Insert 10000 items in 30msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 30msec
+Test for RadixTreeMap (20000 items)
+        Insert 20000 items in 70msec
+        Find 10000 items in 40msec
+        Remove 10000 items in 40msec
+Test for RadixTreeMap (30000 items)
+        Insert 30000 items in 111msec
+        Find 10000 items in 80msec
+        Remove 10000 items in 40msec
+Test for RadixTreeMap (40000 items)
+        Insert 40000 items in 150msec
+        Find 10000 items in 110msec
+        Remove 10000 items in 40msec
+Test for RadixTreeMap (50000 items)
+        Insert 50000 items in 211msec
+        Find 10000 items in 140msec
+        Remove 10000 items in 40msec
+Test for RadixTreeMap (60000 items)
+        Insert 60000 items in 240msec
+        Find 10000 items in 171msec
+        Remove 10000 items in 50msec
+Test for RadixTreeMap (70000 items)
+        Insert 70000 items in 300msec
+        Find 10000 items in 201msec
+        Remove 10000 items in 50msec
+Test for RadixTreeMap (80000 items)
+        Insert 80000 items in 340msec
+        Find 10000 items in 231msec
+        Remove 10000 items in 50msec
+Test for RadixTreeMap (90000 items)
+        Insert 90000 items in 400msec
+        Find 10000 items in 271msec
+        Remove 10000 items in 50msec
+Test for RadixTreeMap (100000 items)
+        Insert 100000 items in 421msec
+        Find 10000 items in 310msec
+        Remove 10000 items in 50msec
+Test for RadixTrieMap (10000 items)
+        Insert 10000 items in 61msec
+        Find 10000 items in 40msec
+        Remove 10000 items in 80msec
+Test for RadixTrieMap (20000 items)
+        Insert 20000 items in 110msec
+        Find 10000 items in 50msec
+        Remove 10000 items in 90msec
+Test for RadixTrieMap (30000 items)
+        Insert 30000 items in 190msec
+        Find 10000 items in 40msec
+        Remove 10000 items in 101msec
+Test for RadixTrieMap (40000 items)
+        Insert 40000 items in 240msec
+        Find 10000 items in 60msec
+        Remove 10000 items in 100msec
+Test for RadixTrieMap (50000 items)
+        Insert 50000 items in 331msec
+        Find 10000 items in 50msec
+        Remove 10000 items in 100msec
+Test for RadixTrieMap (60000 items)
+        Insert 60000 items in 361msec
+        Find 10000 items in 50msec
+        Remove 10000 items in 110msec
+Test for RadixTrieMap (70000 items)
+        Insert 70000 items in 451msec
+        Find 10000 items in 50msec
+        Remove 10000 items in 100msec
+Test for RadixTrieMap (80000 items)
+        Insert 80000 items in 500msec
+        Find 10000 items in 60msec
+        Remove 10000 items in 101msec
+Test for RadixTrieMap (90000 items)
+        Insert 90000 items in 571msec
+        Find 10000 items in 50msec
+        Remove 10000 items in 110msec
+Test for RadixTrieMap (100000 items)
+        Insert 100000 items in 651msec
+        Find 10000 items in 60msec
+        Remove 10000 items in 111msec
+Test for BTreeMap (10000 items)
+        Insert 10000 items in 150msec
+        Find 10000 items in 70msec
+        Remove 10000 items in 151msec
+Test for BTreeMap (20000 items)
+        Insert 20000 items in 310msec
+        Find 10000 items in 80msec
+        Remove 10000 items in 190msec
+Test for BTreeMap (30000 items)
+        Insert 30000 items in 491msec
+        Find 10000 items in 80msec
+        Remove 10000 items in 221msec
+Test for BTreeMap (40000 items)
+        Insert 40000 items in 661msec
+        Find 10000 items in 90msec
+        Remove 10000 items in 230msec
+Test for BTreeMap (50000 items)
+        Insert 50000 items in 851msec
+        Find 10000 items in 91msec
+        Remove 10000 items in 250msec
+Test for BTreeMap (60000 items)
+        Insert 60000 items in 1031msec
+        Find 10000 items in 91msec
+        Remove 10000 items in 260msec
+Test for BTreeMap (70000 items)
+        Insert 70000 items in 1212msec
+        Find 10000 items in 90msec
+        Remove 10000 items in 280msec
+Test for BTreeMap (80000 items)
+        Insert 80000 items in 1402msec
+        Find 10000 items in 100msec
+        Remove 10000 items in 290msec
+Test for BTreeMap (90000 items)
+        Insert 90000 items in 1593msec
+        Find 10000 items in 100msec
+        Remove 10000 items in 300msec
+Test for BTreeMap (100000 items)
+        Insert 100000 items in 1772msec
+        Find 10000 items in 100msec
+        Remove 10000 items in 311msec
+Test for RBTreeMap (10000 items)
+        Insert 10000 items in 20msec
+        Find 10000 items in 10msec
+        Remove 10000 items in 80msec
+Test for RBTreeMap (20000 items)
+        Insert 20000 items in 50msec
+        Find 10000 items in 20msec
+        Remove 10000 items in 100msec
+Test for RBTreeMap (30000 items)
+        Insert 30000 items in 71msec
+        Find 10000 items in 30msec
+        Remove 10000 items in 110msec
+Test for RBTreeMap (40000 items)
+        Insert 40000 items in 100msec
+        Find 10000 items in 50msec
+        Remove 10000 items in 110msec
+Test for RBTreeMap (50000 items)
+        Insert 50000 items in 140msec
+        Find 10000 items in 61msec
+        Remove 10000 items in 120msec
+Test for RBTreeMap (60000 items)
+        Insert 60000 items in 140msec
+        Find 10000 items in 80msec
+        Remove 10000 items in 120msec
+Test for RBTreeMap (70000 items)
+        Insert 70000 items in 181msec
+        Find 10000 items in 90msec
+        Remove 10000 items in 130msec
+Test for RBTreeMap (80000 items)
+        Insert 80000 items in 190msec
+        Find 10000 items in 101msec
+        Remove 10000 items in 130msec
+Test for RBTreeMap (90000 items)
+        Insert 90000 items in 240msec
+        Find 10000 items in 131msec
+        Remove 10000 items in 130msec
+Test for RBTreeMap (100000 items)
+        Insert 100000 items in 240msec
+        Find 10000 items in 150msec
+        Remove 10000 items in 131msec
+Press any key to continue

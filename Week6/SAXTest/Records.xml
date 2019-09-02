@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='euc-kr'?>
+<Records>
+    <Record type='tutor'>
+		<Person name='이재규' age='33'/>
+		<Profile>C++로 배우는 알고리즘 강사</Profile>
+	</Record>
+	<Record type='student'>
+		<Person name='홍길동' age='27'/>
+		<Profile>허균의 홍길동전 주인공</Profile>
+	</Record>
+	<Record type='student'>
+		<Person name='심청' age='22'/>
+		<Profile>심봉사의 딸</Profile>
+	</Record>
+	<Record type='student'>
+		<Person name='흥부' age='34'/>
+		<Profile>놀부의 동생. 자식이 많다고 함.</Profile>
+	</Record>
+</Records>

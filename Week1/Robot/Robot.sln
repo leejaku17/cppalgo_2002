@@ -1,0 +1,15 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "Robot", "Robot.dsp", "{4CC5584B-5B86-4297-913F-351659607161}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

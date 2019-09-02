@@ -1,0 +1,126 @@
+SelectionSort(Random 1000) : 10msec
+SelectionSort(Random 2000) : 20msec
+SelectionSort(Random 4000) : 90msec
+SelectionSort(Random 8000) : 351msec
+SelectionSort(Random 16000) : 1382msec
+SelectionSort(Random 32000) : 5538msec
+SelectionSort(Sorted 1000) : 10msec
+SelectionSort(Sorted 2000) : 20msec
+SelectionSort(Sorted 4000) : 90msec
+SelectionSort(Sorted 8000) : 340msec
+SelectionSort(Sorted 16000) : 1382msec
+SelectionSort(Sorted 32000) : 5538msec
+SelectionSort(Reverse 1000) : 10msec
+SelectionSort(Reverse 2000) : 20msec
+SelectionSort(Reverse 4000) : 111msec
+SelectionSort(Reverse 8000) : 460msec
+SelectionSort(Reverse 16000) : 1783msec
+SelectionSort(Reverse 32000) : 7150msec
+
+InsertionSort(Random 1000) : 10msec
+InsertionSort(Random 2000) : 10msec
+InsertionSort(Random 4000) : 80msec
+InsertionSort(Random 8000) : 301msec
+InsertionSort(Random 16000) : 1251msec
+InsertionSort(Random 32000) : 4948msec
+InsertionSort(Sorted 1000) : 0msec
+InsertionSort(Sorted 2000) : 0msec
+InsertionSort(Sorted 4000) : 0msec
+InsertionSort(Sorted 8000) : 0msec
+InsertionSort(Sorted 16000) : 0msec
+InsertionSort(Sorted 32000) : 0msec
+InsertionSort(Reverse 1000) : 0msec
+InsertionSort(Reverse 2000) : 40msec
+InsertionSort(Reverse 4000) : 160msec
+InsertionSort(Reverse 8000) : 621msec
+InsertionSort(Reverse 16000) : 2473msec
+InsertionSort(Reverse 32000) : 9965msec
+
+BubbleSort(Random 1000) : 10msec
+BubbleSort(Random 2000) : 60msec
+BubbleSort(Random 4000) : 240msec
+BubbleSort(Random 8000) : 992msec
+BubbleSort(Random 16000) : 3935msec
+BubbleSort(Random 32000) : 15823msec
+BubbleSort(Sorted 1000) : 10msec
+BubbleSort(Sorted 2000) : 31msec
+BubbleSort(Sorted 4000) : 100msec
+BubbleSort(Sorted 8000) : 460msec
+BubbleSort(Sorted 16000) : 1863msec
+BubbleSort(Sorted 32000) : 7451msec
+BubbleSort(Reverse 1000) : 20msec
+BubbleSort(Reverse 2000) : 70msec
+BubbleSort(Reverse 4000) : 280msec
+BubbleSort(Reverse 8000) : 1122msec
+BubbleSort(Reverse 16000) : 4526msec
+BubbleSort(Reverse 32000) : 18096msec
+
+ShellSort(Random 1000) : 0msec
+ShellSort(Random 2000) : 0msec
+ShellSort(Random 4000) : 0msec
+ShellSort(Random 8000) : 10msec
+ShellSort(Random 16000) : 20msec
+ShellSort(Random 32000) : 41msec
+ShellSort(Sorted 1000) : 0msec
+ShellSort(Sorted 2000) : 0msec
+ShellSort(Sorted 4000) : 0msec
+ShellSort(Sorted 8000) : 10msec
+ShellSort(Sorted 16000) : 0msec
+ShellSort(Sorted 32000) : 20msec
+ShellSort(Reverse 1000) : 0msec
+ShellSort(Reverse 2000) : 0msec
+ShellSort(Reverse 4000) : 0msec
+ShellSort(Reverse 8000) : 10msec
+ShellSort(Reverse 16000) : 10msec
+ShellSort(Reverse 32000) : 20msec
+
+Press any key to continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
