@@ -9,3 +9,5 @@
 
  * [C++로 배우는 알고리즘 강의](https://www.youtube.com/watch?v=mzM3S5FtKuw&list=PLl5LpJCoD2mCIRn0Fkt8z07EK320ZmHgY)
  * [C++로 배우는 알고리즘 블로그](http://ddmix.blogspot.kr/search/label/cppalgo)
+
+1994년에 출간된 [C로 배우는 알고리즘](https://github.com/leejaku17/calgo_1994) 도서의 소스코드도 공개되어 있습니다. 
